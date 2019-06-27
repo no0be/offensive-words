@@ -1,0 +1,15 @@
+~
+.bak
+.old
+.save
+.new
+.1
+.2
+.3
+_bak
+_old
+_save
+_new
+_1
+_2
+_3
